@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+  color: #333;
+  text-align: center;
+  padding: 2rem;
+}
+#data-box {
+  background: white;
+  padding: 1.5rem;
+  margin: auto;
+  max-width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+  background-color: white;
+  width: 90%;
+  margin-top: 2rem;
+}
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
